@@ -32,11 +32,11 @@ Intellij
 
 # Specs
 _*User Story:*_
-|1. The user should be able to view and interact with teams listed on the home page.|
-|2. The user should be able to route to team descriptions from the home page.|
-|3. The user should be able to update team names and add members on team information page.|
-|4. The user should be able to navigate to the home page from anywhere on the site.|
-|5. The user should be able to create a new team.|
+1. The user should be able to view and interact with teams listed on the home page.
+2. The user should be able to route to team descriptions from the home page.
+3. The user should be able to update team names and add members on team information page.
+4. The user should be able to navigate to the home page from anywhere on the site.
+5. The user should be able to create a new team.
 
 
 
