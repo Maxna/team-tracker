@@ -1,13 +1,13 @@
 package models;
 
 public class Member {
-    private String teamMember;
+    private String member;
 
-    public Member (String teamMember) {
-        this.teamMember = teamMember;
+    public Member (String member) {
+        this.member = member;
     }
 
-    public String getNewMembers(){
-        return teamMember;
+    public String getMember(){
+        return member;
     }
 }
